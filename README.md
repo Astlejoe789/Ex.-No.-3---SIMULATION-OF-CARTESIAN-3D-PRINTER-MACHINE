@@ -50,7 +50,7 @@
 ![EMPD Ex5 (i)](https://github.com/user-attachments/assets/278ea6e2-0fb8-4207-8997-ab14f25590c3)
 ![EMPDEx5(ii)](https://github.com/user-attachments/assets/e05c726e-1e97-4552-a085-e29671cd53d7)
 ![EMPD Ex5(iii)](https://github.com/user-attachments/assets/dbf30f42-24bd-429f-9e4b-e689db822320)
-
+![EMPD Ex5(iv)](https://github.com/user-attachments/assets/75fe2e8d-becc-49fc-a7b6-4a62629774c1)
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
